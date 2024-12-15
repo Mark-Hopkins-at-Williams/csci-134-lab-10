@@ -7,6 +7,6 @@ The assignment description can be found
 This repository contains two starter files for the code
 you need to write for HW 11:
 - `mazes.py`: Put code for Question 1 in this file.
-- `hw11.py`: Put code for Questions 2-5 in this file.
+- `lab10.py`: Put code for Questions 2-5 in this file.
 
 Ignore (but do not delete!!!) the other files in this repository.
